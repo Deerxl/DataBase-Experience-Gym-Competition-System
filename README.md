@@ -1,6 +1,6 @@
 # DataBaseExp_GymCompetionSystem
 
-利用Microsoft Visual Studio C#的EF框架和MySql数据库建立一个简单的无服务器的体操赛是管理系统。
+数据库实验：利用Microsoft Visual Studio C#的EF框架和MySql数据库建立一个简单的无服务器的体操赛事管理系统。
 
 <!-- TOC -->
 
