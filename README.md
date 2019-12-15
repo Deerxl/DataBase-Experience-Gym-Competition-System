@@ -2,6 +2,19 @@
 
 利用Microsoft Visual Studio C#的EF框架和MySql数据库建立一个简单的无服务器的体操赛是管理系统。
 
+<!-- TOC -->
+
+- [DataBaseExp_GymCompetionSystem](#databaseexp_gymcompetionsystem)
+    - [实验说明](#实验说明)
+        - [（一） 系统设置](#一-系统设置)
+        - [（二） 报名](#二-报名)
+        - [（三） 编排](#三-编排)
+        - [（四） 初赛](#四-初赛)
+        - [（五） 决赛](#五-决赛)
+    - [环境配置](#环境配置)
+
+<!-- /TOC -->
+
 ## 实验说明
 体操赛事系统是一个管理体操比赛的信息系统。
 
